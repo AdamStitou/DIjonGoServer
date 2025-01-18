@@ -1,0 +1,19 @@
+.container{
+    font-family: 'Nunito';
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: black;
+}
+
+::ng-deep .custom-ok-button{
+    background-color: #FA7E5C !important;
+    outline: none !important;
+}
+
+#sub{    
+    color : #ffffff;
+    background-color: #FA7E5C;    
+}
+h1{
+    text-align: center;
+}
